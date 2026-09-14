@@ -5,7 +5,7 @@ cd /d "%~dp0"
 
 echo ============================================
 echo   Push local changes to GitHub
-echo   Repo: https://github.com/wen1701/FanqieRankTracker
+echo   Repo: https://github.com/yyk551/FanqieRankTracker
 echo   (After a successful push, GitHub Actions will
 echo    scrape BOTH female and male channels daily.)
 echo ============================================
@@ -45,9 +45,13 @@ echo      GitHub repo - Settings - Collaborators - Add people
 echo      then run this script again
 echo.
 echo   C^) Use a Personal Access Token:
-echo      git remote set-url origin https://OWNER:TOKEN@github.com/wen1701/FanqieRankTracker.git
+echo      git remote set-url origin https://OWNER:TOKEN@github.com/yyk551/FanqieRankTracker.git
 echo      git push -u origin main
-echo      git remote set-url origin https://github.com/wen1701/FanqieRankTracker.git
+echo      git remote set-url origin https://github.com/yyk551/FanqieRankTracker.git
+echo.
+echo   NOTE: The first push to a brand-new repo needs GitHub Pages enabled once:
+echo      GitHub repo - Settings - Pages - Source: GitHub Actions - Save
+echo      then Actions tab - "Deploy to GitHub Pages" - Re-run jobs
 echo.
 pause
 exit /b 1
