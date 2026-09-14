@@ -1,0 +1,25 @@
+**/.DS_Store
+.DS_Store
+
+# 本地 AI 配置（含密钥，禁止提交）
+.env
+venv/
+__pycache__/
+*.pyc
+
+# 爬虫断点续抓状态
+data/task_state_*.json
+
+# 本地一次性调试脚本 / 抓包与字体产物（不属于项目本身）
+probe_*.py
+diag_*.py
+decode_*.py
+check_*.py
+explore_*.py
+build_male_font_map*.py
+complete_male_font_map.py
+analyze_font.py
+test_abstract_align.py
+smoke_test.py
+male_font_map.json
+*.woff2
