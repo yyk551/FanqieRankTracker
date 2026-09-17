@@ -1,13 +1,13 @@
 {
-  "date": "2026-09-16",
-  "prev_date": "2026-09-15",
+  "date": "2026-09-17",
+  "prev_date": "2026-09-16",
   "gender": "male",
   "types": [
     {
       "type": "all",
       "url": "api/lastest_male/all.json",
       "category_count": 19,
-      "book_count": 380
+      "book_count": 349
     },
     {
       "type": "西方奇幻",
@@ -17,7 +17,7 @@
     {
       "type": "东方仙侠",
       "url": "api/lastest_male/%E4%B8%9C%E6%96%B9%E4%BB%99%E4%BE%A0.json",
-      "book_count": 20
+      "book_count": 19
     },
     {
       "type": "科幻末世",
@@ -57,12 +57,12 @@
     {
       "type": "传统玄幻",
       "url": "api/lastest_male/%E4%BC%A0%E7%BB%9F%E7%8E%84%E5%B9%BB.json",
-      "book_count": 20
+      "book_count": 10
     },
     {
       "type": "历史脑洞",
       "url": "api/lastest_male/%E5%8E%86%E5%8F%B2%E8%84%91%E6%B4%9E.json",
-      "book_count": 20
+      "book_count": 10
     },
     {
       "type": "悬疑脑洞",
@@ -82,7 +82,7 @@
     {
       "type": "悬疑灵异",
       "url": "api/lastest_male/%E6%82%AC%E7%96%91%E7%81%B5%E5%BC%82.json",
-      "book_count": 20
+      "book_count": 10
     },
     {
       "type": "抗战谍战",
