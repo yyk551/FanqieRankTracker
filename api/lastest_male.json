@@ -1,13 +1,13 @@
 {
-  "date": "2026-09-28",
-  "prev_date": "2026-09-26",
+  "date": "2026-09-29",
+  "prev_date": "2026-09-28",
   "gender": "male",
   "types": [
     {
       "type": "all",
       "url": "api/lastest_male/all.json",
       "category_count": 19,
-      "book_count": 380
+      "book_count": 379
     },
     {
       "type": "西方奇幻",
@@ -27,7 +27,7 @@
     {
       "type": "都市日常",
       "url": "api/lastest_male/%E9%83%BD%E5%B8%82%E6%97%A5%E5%B8%B8.json",
-      "book_count": 20
+      "book_count": 19
     },
     {
       "type": "都市修真",
