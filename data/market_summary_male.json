@@ -1,22 +1,22 @@
 {
-  "date": "2026-10-29",
-  "prev_date": "2026-10-28",
+  "date": "2026-10-30",
+  "prev_date": "2026-10-29",
   "gender": "male",
   "periods": {
     "7": {
       "period": "近 7 日",
       "source": "rule",
       "basis": "growth",
-      "summary": "近 7 日里，都市超能、玄幻仙侠 的阅读增长更强，具体分类以 男频衍生、都市脑洞、都市高武 的新增在读更集中；新书题材上 穿越、开局、系统、觉醒、重生、天赋 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
-      "fallback_summary": "近 7 日里，都市超能、玄幻仙侠 的阅读增长更强，具体分类以 男频衍生、都市脑洞、都市高武 的新增在读更集中；新书题材上 穿越、开局、系统、觉醒、重生、天赋 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
+      "summary": "近 7 日里，都市超能、玄幻仙侠 的阅读增长更强，具体分类以 男频衍生、都市脑洞、都市高武 的新增在读更集中；新书题材上 穿越、系统、开局、觉醒、无敌、天赋 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
+      "fallback_summary": "近 7 日里，都市超能、玄幻仙侠 的阅读增长更强，具体分类以 男频衍生、都市脑洞、都市高武 的新增在读更集中；新书题材上 穿越、系统、开局、觉醒、无敌、天赋 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
       "hot_genres": [
         {
           "name": "都市超能",
-          "score": 1673000,
-          "new_count": 81,
-          "dropped_count": 81,
+          "score": 1820000,
+          "new_count": 72,
+          "dropped_count": 72,
           "read_count": 105,
-          "read_growth_total": 1673000.0,
+          "read_growth_total": 1820000.0,
           "active_days": 35,
           "lead_category": "都市脑洞",
           "categories": [
@@ -29,11 +29,11 @@
         },
         {
           "name": "玄幻仙侠",
-          "score": 1195000,
-          "new_count": 55,
-          "dropped_count": 55,
+          "score": 1259000,
+          "new_count": 57,
+          "dropped_count": 57,
           "read_count": 84,
-          "read_growth_total": 1195000.0,
+          "read_growth_total": 1259000.0,
           "active_days": 28,
           "lead_category": "传统玄幻",
           "categories": [
@@ -45,11 +45,11 @@
         },
         {
           "name": "衍生同人",
-          "score": 1036000,
-          "new_count": 28,
-          "dropped_count": 28,
+          "score": 1017000,
+          "new_count": 29,
+          "dropped_count": 29,
           "read_count": 42,
-          "read_growth_total": 1036000.0,
+          "read_growth_total": 1017000.0,
           "active_days": 14,
           "lead_category": "男频衍生",
           "categories": [
@@ -59,13 +59,13 @@
         },
         {
           "name": "历史军事",
-          "score": 827000,
-          "new_count": 43,
-          "dropped_count": 43,
+          "score": 751000,
+          "new_count": 40,
+          "dropped_count": 40,
           "read_count": 63,
-          "read_growth_total": 827000.0,
+          "read_growth_total": 751000.0,
           "active_days": 21,
-          "lead_category": "历史古代",
+          "lead_category": "历史脑洞",
           "categories": [
             "历史古代",
             "历史脑洞",
@@ -74,11 +74,11 @@
         },
         {
           "name": "悬疑惊悚",
-          "score": 550000,
-          "new_count": 21,
-          "dropped_count": 21,
+          "score": 620000,
+          "new_count": 24,
+          "dropped_count": 24,
           "read_count": 42,
-          "read_growth_total": 550000.0,
+          "read_growth_total": 620000.0,
           "active_days": 14,
           "lead_category": "悬疑灵异",
           "categories": [
@@ -90,113 +90,118 @@
       "hot_types": [
         {
           "name": "男频衍生",
-          "score": 617000,
+          "score": 587000,
           "new_count": 13,
           "dropped_count": 13,
           "read_count": 21,
-          "read_growth_total": 617000.0,
+          "read_growth_total": 587000.0,
           "active_days": 7
         },
         {
           "name": "都市脑洞",
-          "score": 483000,
-          "new_count": 14,
-          "dropped_count": 14,
+          "score": 521000,
+          "new_count": 13,
+          "dropped_count": 13,
           "read_count": 21,
-          "read_growth_total": 483000.0,
+          "read_growth_total": 521000.0,
           "active_days": 7
         },
         {
           "name": "都市高武",
-          "score": 467000,
-          "new_count": 18,
-          "dropped_count": 18,
+          "score": 517000,
+          "new_count": 17,
+          "dropped_count": 17,
           "read_count": 21,
-          "read_growth_total": 467000.0,
+          "read_growth_total": 517000.0,
           "active_days": 7
         },
         {
           "name": "传统玄幻",
           "score": 456000,
-          "new_count": 12,
-          "dropped_count": 12,
+          "new_count": 11,
+          "dropped_count": 11,
           "read_count": 21,
           "read_growth_total": 456000.0,
           "active_days": 7
         },
         {
           "name": "动漫衍生",
-          "score": 419000,
-          "new_count": 15,
-          "dropped_count": 15,
+          "score": 430000,
+          "new_count": 16,
+          "dropped_count": 16,
           "read_count": 21,
-          "read_growth_total": 419000.0,
+          "read_growth_total": 430000.0,
           "active_days": 7
         },
         {
-          "name": "历史古代",
-          "score": 389000,
-          "new_count": 14,
-          "dropped_count": 14,
+          "name": "都市日常",
+          "score": 408000,
+          "new_count": 17,
+          "dropped_count": 17,
           "read_count": 21,
-          "read_growth_total": 389000.0,
+          "read_growth_total": 408000.0,
           "active_days": 7
         }
       ],
       "hot_themes": [
         {
           "name": "穿越",
-          "count": 86,
+          "count": 87,
           "category_count": 17
-        },
-        {
-          "name": "开局",
-          "count": 74,
-          "category_count": 19
         },
         {
           "name": "系统",
-          "count": 71,
+          "count": 76,
           "category_count": 19
         },
         {
+          "name": "开局",
+          "count": 67,
+          "category_count": 18
+        },
+        {
           "name": "觉醒",
-          "count": 50,
-          "category_count": 17
-        },
-        {
-          "name": "重生",
-          "count": 23,
-          "category_count": 11
-        },
-        {
-          "name": "天赋",
-          "count": 21,
-          "category_count": 10
+          "count": 44,
+          "category_count": 16
         },
         {
           "name": "无敌",
+          "count": 23,
+          "category_count": 9
+        },
+        {
+          "name": "天赋",
           "count": 20,
           "category_count": 9
         },
         {
           "name": "修仙",
+          "count": 19,
+          "category_count": 7
+        },
+        {
+          "name": "重生",
           "count": 18,
           "category_count": 8
         },
         {
-          "name": "年代",
+          "name": "反派",
           "count": 11,
+          "category_count": 5
+        },
+        {
+          "name": "单女主",
+          "count": 10,
+          "category_count": 9
+        },
+        {
+          "name": "年代",
+          "count": 10,
           "category_count": 4
         },
         {
-          "name": "种田",
-          "count": 10,
-          "category_count": 7
-        },
-        {
-          "name": "反派",
-          "count": 10,
+          "name": "词条",
+          "count": 9,
           "category_count": 5
         },
         {
@@ -208,11 +213,6 @@
           "name": "诡异",
           "count": 9,
           "category_count": 2
-        },
-        {
-          "name": "抗战",
-          "count": 9,
-          "category_count": 1
         }
       ]
     },
@@ -220,16 +220,16 @@
       "period": "近 14 日",
       "source": "rule",
       "basis": "growth",
-      "summary": "近 14 日里，都市超能、玄幻仙侠 的阅读增长更强，具体分类以 男频衍生、都市脑洞、动漫衍生 的新增在读更集中；新书题材上 穿越、开局、系统、觉醒、重生、无敌 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
-      "fallback_summary": "近 14 日里，都市超能、玄幻仙侠 的阅读增长更强，具体分类以 男频衍生、都市脑洞、动漫衍生 的新增在读更集中；新书题材上 穿越、开局、系统、觉醒、重生、无敌 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
+      "summary": "近 14 日里，都市超能、玄幻仙侠 的阅读增长更强，具体分类以 男频衍生、都市脑洞、动漫衍生 的新增在读更集中；新书题材上 穿越、系统、开局、觉醒、重生、无敌 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
+      "fallback_summary": "近 14 日里，都市超能、玄幻仙侠 的阅读增长更强，具体分类以 男频衍生、都市脑洞、动漫衍生 的新增在读更集中；新书题材上 穿越、系统、开局、觉醒、重生、无敌 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
       "hot_genres": [
         {
           "name": "都市超能",
-          "score": 3511000,
-          "new_count": 145,
-          "dropped_count": 145,
+          "score": 3556000,
+          "new_count": 139,
+          "dropped_count": 139,
           "read_count": 210,
-          "read_growth_total": 3511000.0,
+          "read_growth_total": 3556000.0,
           "active_days": 70,
           "lead_category": "都市脑洞",
           "categories": [
@@ -242,11 +242,11 @@
         },
         {
           "name": "玄幻仙侠",
-          "score": 2341000,
-          "new_count": 102,
-          "dropped_count": 102,
+          "score": 2303000,
+          "new_count": 99,
+          "dropped_count": 99,
           "read_count": 168,
-          "read_growth_total": 2341000.0,
+          "read_growth_total": 2303000.0,
           "active_days": 56,
           "lead_category": "玄幻脑洞",
           "categories": [
@@ -258,11 +258,11 @@
         },
         {
           "name": "衍生同人",
-          "score": 1995000,
-          "new_count": 52,
-          "dropped_count": 52,
+          "score": 1959000,
+          "new_count": 51,
+          "dropped_count": 51,
           "read_count": 84,
-          "read_growth_total": 1995000.0,
+          "read_growth_total": 1959000.0,
           "active_days": 28,
           "lead_category": "男频衍生",
           "categories": [
@@ -272,11 +272,11 @@
         },
         {
           "name": "历史军事",
-          "score": 1580000,
+          "score": 1587000,
           "new_count": 76,
           "dropped_count": 76,
           "read_count": 126,
-          "read_growth_total": 1580000.0,
+          "read_growth_total": 1587000.0,
           "active_days": 42,
           "lead_category": "历史古代",
           "categories": [
@@ -287,11 +287,11 @@
         },
         {
           "name": "悬疑惊悚",
-          "score": 1021000,
-          "new_count": 37,
-          "dropped_count": 37,
+          "score": 1097000,
+          "new_count": 39,
+          "dropped_count": 39,
           "read_count": 84,
-          "read_growth_total": 1021000.0,
+          "read_growth_total": 1097000.0,
           "active_days": 28,
           "lead_category": "悬疑脑洞",
           "categories": [
@@ -303,103 +303,108 @@
       "hot_types": [
         {
           "name": "男频衍生",
-          "score": 1165000,
-          "new_count": 27,
-          "dropped_count": 27,
+          "score": 1129000,
+          "new_count": 25,
+          "dropped_count": 25,
           "read_count": 42,
-          "read_growth_total": 1165000.0,
+          "read_growth_total": 1129000.0,
           "active_days": 14
         },
         {
           "name": "都市脑洞",
-          "score": 954000,
-          "new_count": 27,
-          "dropped_count": 27,
+          "score": 973000,
+          "new_count": 25,
+          "dropped_count": 25,
           "read_count": 42,
-          "read_growth_total": 954000.0,
+          "read_growth_total": 973000.0,
           "active_days": 14
         },
         {
           "name": "动漫衍生",
           "score": 830000,
-          "new_count": 25,
-          "dropped_count": 25,
+          "new_count": 26,
+          "dropped_count": 26,
           "read_count": 42,
           "read_growth_total": 830000.0,
           "active_days": 14
         },
         {
           "name": "都市高武",
-          "score": 820000,
+          "score": 826000,
           "new_count": 26,
           "dropped_count": 26,
           "read_count": 42,
-          "read_growth_total": 820000.0,
+          "read_growth_total": 826000.0,
           "active_days": 14
         },
         {
           "name": "玄幻脑洞",
-          "score": 808000,
+          "score": 784000,
           "new_count": 32,
           "dropped_count": 32,
           "read_count": 42,
-          "read_growth_total": 808000.0,
+          "read_growth_total": 784000.0,
           "active_days": 14
         },
         {
-          "name": "历史古代",
-          "score": 692000,
-          "new_count": 23,
-          "dropped_count": 23,
+          "name": "都市日常",
+          "score": 729000,
+          "new_count": 38,
+          "dropped_count": 38,
           "read_count": 42,
-          "read_growth_total": 692000.0,
+          "read_growth_total": 729000.0,
           "active_days": 14
         }
       ],
       "hot_themes": [
         {
           "name": "穿越",
-          "count": 128,
+          "count": 131,
           "category_count": 18
         },
         {
-          "name": "开局",
-          "count": 111,
+          "name": "系统",
+          "count": 109,
           "category_count": 19
         },
         {
-          "name": "系统",
-          "count": 107,
+          "name": "开局",
+          "count": 105,
           "category_count": 19
         },
         {
           "name": "觉醒",
-          "count": 65,
-          "category_count": 18
+          "count": 62,
+          "category_count": 17
         },
         {
           "name": "重生",
-          "count": 40,
-          "category_count": 14
+          "count": 35,
+          "category_count": 12
         },
         {
           "name": "无敌",
-          "count": 31,
+          "count": 34,
           "category_count": 12
         },
         {
           "name": "修仙",
-          "count": 30,
+          "count": 33,
           "category_count": 10
         },
         {
           "name": "天赋",
-          "count": 28,
-          "category_count": 11
+          "count": 24,
+          "category_count": 9
         },
         {
-          "name": "都市",
-          "count": 20,
+          "name": "单女主",
+          "count": 17,
+          "category_count": 10
+        },
+        {
+          "name": "反派",
+          "count": 17,
           "category_count": 6
         },
         {
@@ -408,7 +413,7 @@
           "category_count": 1
         },
         {
-          "name": "反派",
+          "name": "都市",
           "count": 16,
           "category_count": 6
         },
@@ -418,14 +423,9 @@
           "category_count": 4
         },
         {
-          "name": "种田",
-          "count": 15,
-          "category_count": 9
-        },
-        {
-          "name": "单女主",
+          "name": "末世",
           "count": 14,
-          "category_count": 10
+          "category_count": 3
         }
       ]
     },
@@ -438,11 +438,11 @@
       "hot_genres": [
         {
           "name": "都市超能",
-          "score": 9118000,
-          "new_count": 369,
-          "dropped_count": 369,
+          "score": 9300000,
+          "new_count": 363,
+          "dropped_count": 363,
           "read_count": 450,
-          "read_growth_total": 9118000.0,
+          "read_growth_total": 9300000.0,
           "active_days": 150,
           "lead_category": "都市脑洞",
           "categories": [
@@ -455,11 +455,11 @@
         },
         {
           "name": "玄幻仙侠",
-          "score": 5527000,
-          "new_count": 290,
-          "dropped_count": 290,
+          "score": 5635000,
+          "new_count": 293,
+          "dropped_count": 293,
           "read_count": 354,
-          "read_growth_total": 5527000.0,
+          "read_growth_total": 5635000.0,
           "active_days": 120,
           "lead_category": "玄幻脑洞",
           "categories": [
@@ -471,11 +471,11 @@
         },
         {
           "name": "衍生同人",
-          "score": 5105000,
-          "new_count": 134,
-          "dropped_count": 134,
+          "score": 5059000,
+          "new_count": 133,
+          "dropped_count": 133,
           "read_count": 180,
-          "read_growth_total": 5105000.0,
+          "read_growth_total": 5059000.0,
           "active_days": 60,
           "lead_category": "男频衍生",
           "categories": [
@@ -485,11 +485,11 @@
         },
         {
           "name": "历史军事",
-          "score": 3757000,
-          "new_count": 197,
-          "dropped_count": 197,
+          "score": 3808000,
+          "new_count": 195,
+          "dropped_count": 195,
           "read_count": 270,
-          "read_growth_total": 3757000.0,
+          "read_growth_total": 3808000.0,
           "active_days": 90,
           "lead_category": "历史古代",
           "categories": [
@@ -500,11 +500,11 @@
         },
         {
           "name": "悬疑惊悚",
-          "score": 2577000,
+          "score": 2661000,
           "new_count": 106,
           "dropped_count": 106,
           "read_count": 180,
-          "read_growth_total": 2577000.0,
+          "read_growth_total": 2661000.0,
           "active_days": 60,
           "lead_category": "悬疑脑洞",
           "categories": [
@@ -516,84 +516,84 @@
       "hot_types": [
         {
           "name": "男频衍生",
-          "score": 2983000,
-          "new_count": 68,
-          "dropped_count": 68,
+          "score": 2965000,
+          "new_count": 67,
+          "dropped_count": 67,
           "read_count": 90,
-          "read_growth_total": 2983000.0,
+          "read_growth_total": 2965000.0,
           "active_days": 30
         },
         {
           "name": "玄幻脑洞",
-          "score": 2567000,
-          "new_count": 82,
-          "dropped_count": 82,
+          "score": 2605000,
+          "new_count": 83,
+          "dropped_count": 83,
           "read_count": 90,
-          "read_growth_total": 2567000.0,
+          "read_growth_total": 2605000.0,
           "active_days": 30
         },
         {
           "name": "都市脑洞",
-          "score": 2532000,
-          "new_count": 67,
-          "dropped_count": 67,
+          "score": 2590000,
+          "new_count": 66,
+          "dropped_count": 66,
           "read_count": 90,
-          "read_growth_total": 2532000.0,
+          "read_growth_total": 2590000.0,
           "active_days": 30
         },
         {
           "name": "都市高武",
-          "score": 2143000,
-          "new_count": 69,
-          "dropped_count": 69,
+          "score": 2190000,
+          "new_count": 68,
+          "dropped_count": 68,
           "read_count": 90,
-          "read_growth_total": 2143000.0,
+          "read_growth_total": 2190000.0,
           "active_days": 30
         },
         {
           "name": "动漫衍生",
-          "score": 2122000,
+          "score": 2094000,
           "new_count": 66,
           "dropped_count": 66,
           "read_count": 90,
-          "read_growth_total": 2122000.0,
+          "read_growth_total": 2094000.0,
           "active_days": 30
         },
         {
           "name": "科幻末世",
-          "score": 1805000,
-          "new_count": 75,
-          "dropped_count": 75,
+          "score": 1818000,
+          "new_count": 76,
+          "dropped_count": 76,
           "read_count": 90,
-          "read_growth_total": 1805000.0,
+          "read_growth_total": 1818000.0,
           "active_days": 30
         }
       ],
       "hot_themes": [
         {
           "name": "开局",
-          "count": 220,
+          "count": 217,
           "category_count": 19
         },
         {
           "name": "穿越",
-          "count": 192,
+          "count": 198,
           "category_count": 18
         },
         {
           "name": "系统",
-          "count": 169,
+          "count": 170,
           "category_count": 19
         },
         {
           "name": "觉醒",
           "count": 91,
-          "category_count": 18
+          "category_count": 17
         },
         {
           "name": "重生",
-          "count": 79,
-          "category_count": 15
+          "count": 78,
+          "category_count": 14
         },
         {
           "name": "无敌",
@@ -602,23 +602,23 @@
         },
         {
           "name": "修仙",
-          "count": 49,
+          "count": 51,
           "category_count": 11
         },
         {
           "name": "天赋",
-          "count": 43,
-          "category_count": 12
-        },
-        {
-          "name": "都市",
-          "count": 33,
-          "category_count": 7
+          "count": 39,
+          "category_count": 11
         },
         {
           "name": "年代",
-          "count": 31,
+          "count": 33,
           "category_count": 4
+        },
+        {
+          "name": "都市",
+          "count": 31,
+          "category_count": 7
         },
         {
           "name": "末世",
@@ -632,13 +632,13 @@
         },
         {
           "name": "反派",
-          "count": 26,
+          "count": 27,
           "category_count": 8
         },
         {
-          "name": "诡异",
-          "count": 23,
-          "category_count": 4
+          "name": "洪荒",
+          "count": 24,
+          "category_count": 2
         }
       ]
     },
@@ -651,12 +651,12 @@
       "hot_genres": [
         {
           "name": "都市超能",
-          "score": 11433000,
-          "new_count": 493,
-          "dropped_count": 493,
-          "read_count": 570,
-          "read_growth_total": 11433000.0,
-          "active_days": 190,
+          "score": 11759000,
+          "new_count": 499,
+          "dropped_count": 499,
+          "read_count": 585,
+          "read_growth_total": 11759000.0,
+          "active_days": 195,
           "lead_category": "都市脑洞",
           "categories": [
             "都市高武",
@@ -668,12 +668,12 @@
         },
         {
           "name": "玄幻仙侠",
-          "score": 6466000,
-          "new_count": 395,
-          "dropped_count": 395,
-          "read_count": 450,
-          "read_growth_total": 6466000.0,
-          "active_days": 152,
+          "score": 6652000,
+          "new_count": 402,
+          "dropped_count": 402,
+          "read_count": 462,
+          "read_growth_total": 6652000.0,
+          "active_days": 156,
           "lead_category": "玄幻脑洞",
           "categories": [
             "东方仙侠",
@@ -684,12 +684,12 @@
         },
         {
           "name": "衍生同人",
-          "score": 5948000,
-          "new_count": 187,
-          "dropped_count": 186,
-          "read_count": 228,
-          "read_growth_total": 5948000.0,
-          "active_days": 76,
+          "score": 6053000,
+          "new_count": 190,
+          "dropped_count": 189,
+          "read_count": 234,
+          "read_growth_total": 6053000.0,
+          "active_days": 78,
           "lead_category": "男频衍生",
           "categories": [
             "动漫衍生",
@@ -698,12 +698,12 @@
         },
         {
           "name": "历史军事",
-          "score": 4402000,
-          "new_count": 282,
-          "dropped_count": 282,
-          "read_count": 342,
-          "read_growth_total": 4402000.0,
-          "active_days": 114,
+          "score": 4520000,
+          "new_count": 286,
+          "dropped_count": 286,
+          "read_count": 351,
+          "read_growth_total": 4520000.0,
+          "active_days": 117,
           "lead_category": "历史古代",
           "categories": [
             "历史古代",
@@ -713,12 +713,12 @@
         },
         {
           "name": "悬疑惊悚",
-          "score": 3029000,
-          "new_count": 157,
-          "dropped_count": 157,
-          "read_count": 228,
-          "read_growth_total": 3029000.0,
-          "active_days": 76,
+          "score": 3176000,
+          "new_count": 161,
+          "dropped_count": 161,
+          "read_count": 234,
+          "read_growth_total": 3176000.0,
+          "active_days": 78,
           "lead_category": "悬疑脑洞",
           "categories": [
             "悬疑灵异",
@@ -729,57 +729,57 @@
       "hot_types": [
         {
           "name": "都市脑洞",
-          "score": 3414000,
+          "score": 3510000,
           "new_count": 96,
           "dropped_count": 96,
-          "read_count": 114,
-          "read_growth_total": 3414000.0,
-          "active_days": 38
+          "read_count": 117,
+          "read_growth_total": 3510000.0,
+          "active_days": 39
         },
         {
           "name": "男频衍生",
-          "score": 3387000,
-          "new_count": 93,
-          "dropped_count": 93,
-          "read_count": 114,
-          "read_growth_total": 3387000.0,
-          "active_days": 38
+          "score": 3446000,
+          "new_count": 94,
+          "dropped_count": 94,
+          "read_count": 117,
+          "read_growth_total": 3446000.0,
+          "active_days": 39
         },
         {
           "name": "玄幻脑洞",
-          "score": 2817000,
-          "new_count": 111,
-          "dropped_count": 111,
-          "read_count": 114,
-          "read_growth_total": 2817000.0,
-          "active_days": 38
+          "score": 2874000,
+          "new_count": 114,
+          "dropped_count": 114,
+          "read_count": 117,
+          "read_growth_total": 2874000.0,
+          "active_days": 39
         },
         {
           "name": "动漫衍生",
-          "score": 2561000,
-          "new_count": 94,
-          "dropped_count": 93,
-          "read_count": 114,
-          "read_growth_total": 2561000.0,
-          "active_days": 38
+          "score": 2607000,
+          "new_count": 96,
+          "dropped_count": 95,
+          "read_count": 117,
+          "read_growth_total": 2607000.0,
+          "active_days": 39
         },
         {
           "name": "都市高武",
-          "score": 2463000,
-          "new_count": 94,
-          "dropped_count": 94,
-          "read_count": 114,
-          "read_growth_total": 2463000.0,
-          "active_days": 38
+          "score": 2539000,
+          "new_count": 96,
+          "dropped_count": 96,
+          "read_count": 117,
+          "read_growth_total": 2539000.0,
+          "active_days": 39
         },
         {
-          "name": "科幻末世",
-          "score": 2109000,
-          "new_count": 100,
-          "dropped_count": 100,
-          "read_count": 114,
-          "read_growth_total": 2109000.0,
-          "active_days": 38
+          "name": "都市日常",
+          "score": 2166000,
+          "new_count": 107,
+          "dropped_count": 107,
+          "read_count": 117,
+          "read_growth_total": 2166000.0,
+          "active_days": 39
         }
       ],
       "hot_themes": [
@@ -790,23 +790,23 @@
         },
         {
           "name": "穿越",
-          "count": 214,
+          "count": 220,
           "category_count": 18
         },
         {
           "name": "系统",
-          "count": 183,
+          "count": 186,
           "category_count": 19
         },
         {
           "name": "觉醒",
           "count": 95,
-          "category_count": 18
+          "category_count": 17
         },
         {
           "name": "重生",
           "count": 88,
-          "category_count": 15
+          "category_count": 14
         },
         {
           "name": "无敌",
@@ -815,23 +815,33 @@
         },
         {
           "name": "修仙",
-          "count": 53,
+          "count": 56,
           "category_count": 11
         },
         {
           "name": "天赋",
-          "count": 46,
-          "category_count": 13
-        },
-        {
-          "name": "都市",
-          "count": 38,
-          "category_count": 7
+          "count": 42,
+          "category_count": 12
         },
         {
           "name": "年代",
-          "count": 37,
+          "count": 40,
           "category_count": 5
+        },
+        {
+          "name": "都市",
+          "count": 37,
+          "category_count": 7
+        },
+        {
+          "name": "抗战",
+          "count": 37,
+          "category_count": 1
+        },
+        {
+          "name": "末世",
+          "count": 36,
+          "category_count": 7
         },
         {
           "name": "诡异",
@@ -839,18 +849,8 @@
           "category_count": 5
         },
         {
-          "name": "抗战",
-          "count": 36,
-          "category_count": 1
-        },
-        {
-          "name": "末世",
-          "count": 35,
-          "category_count": 7
-        },
-        {
           "name": "洪荒",
-          "count": 35,
+          "count": 36,
           "category_count": 2
         }
       ]
