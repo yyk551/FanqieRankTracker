@@ -1,18 +1,18 @@
 {
-  "date": "2026-11-09",
-  "prev_date": "2026-11-08",
+  "date": "2026-11-11",
+  "prev_date": "2026-11-09",
   "gender": "female",
   "types": [
     {
       "type": "all",
       "url": "api/lastest/all.json",
       "category_count": 18,
-      "book_count": 350
+      "book_count": 360
     },
     {
       "type": "古风世情",
       "url": "api/lastest/%E5%8F%A4%E9%A3%8E%E4%B8%96%E6%83%85.json",
-      "book_count": 10
+      "book_count": 20
     },
     {
       "type": "科幻末世",
