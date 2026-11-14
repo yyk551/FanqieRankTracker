@@ -1,13 +1,13 @@
 {
-  "date": "2026-11-13",
-  "prev_date": "2026-11-12",
+  "date": "2026-11-14",
+  "prev_date": "2026-11-13",
   "gender": "male",
   "types": [
     {
       "type": "all",
       "url": "api/lastest_male/all.json",
       "category_count": 19,
-      "book_count": 360
+      "book_count": 380
     },
     {
       "type": "西方奇幻",
@@ -47,7 +47,7 @@
     {
       "type": "战神赘婿",
       "url": "api/lastest_male/%E6%88%98%E7%A5%9E%E8%B5%98%E5%A9%BF.json",
-      "book_count": 0
+      "book_count": 20
     },
     {
       "type": "都市种田",
